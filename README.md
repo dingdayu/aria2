@@ -6,3 +6,5 @@ aria2 tools
 BaiduExporter (https://github.com/acgotaku/BaiduExporter)
 
 aria2 (https://github.com/aria2/aria2)
+
+webui-aria2 (https://github.com/ziahamza/webui-aria2)
